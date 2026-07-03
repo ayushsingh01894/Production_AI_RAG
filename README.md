@@ -122,3 +122,6 @@ index, you must create a new index (dimension is fixed per index).
 - `cache/response_cache.json` stores cached answers — delete it to force fresh generations.
 - Logs are written to `logs/app.log` (rotating, 3 backups, 5MB each).
 - Namespaces let you isolate different document collections (e.g. per project/client) inside one index.
+
+Live demo - https://ai-rag-by-ayush.streamlit.app/
+
